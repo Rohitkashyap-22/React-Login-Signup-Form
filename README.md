@@ -48,5 +48,5 @@ A simple and interactive Login and Signup Form built using **React.js** and **CS
 
 This project was built with the help of the following YouTube tutorial:
 
-[Add YouTube Tutorial Link Here](https://www.youtube.com/watch?v=vWcyisPuTOA&list=PLp18NAIKHWnvpLpioGs6ZAiMlpfx49KOz&index=36&t=99s)
+[Youtube Tutorial](https://www.youtube.com/watch?v=vWcyisPuTOA&list=PLp18NAIKHWnvpLpioGs6ZAiMlpfx49KOz&index=36&t=99s)
 
