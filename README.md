@@ -25,12 +25,13 @@ A simple and interactive Login and Signup Form built using **React.js** and **CS
 
 1. Clone the repository:
    ```bash
-   git clone <your-repository-link>
+   git clone https://github.com/Rohitkashyap-22/React-Login-Signup-Form
    ```
 
 2. Navigate to the project folder:
    ```bash
-   cd <project-folder>
+   cd React-Login-Signup-Form
+
    ```
 
 3. Install dependencies:
